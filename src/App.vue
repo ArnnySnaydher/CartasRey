@@ -66,6 +66,7 @@ return decimal.toFixed(2) + "€"
   padding-top: 0%;
   text-align: center;
   position: absolute;
+  width: 40%;
  
 }
 .etiqueta{
